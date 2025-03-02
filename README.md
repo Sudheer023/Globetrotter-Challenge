@@ -17,4 +17,16 @@ If you are developing a production application, we recommend using TypeScript an
 
 To run locally follow below steps:
 1. npm install
-2.npm run dev
+2. npm run dev
+
+Project overview --------
+
+Built upon react vite as library
+used custom css for page layout
+took static datasets for ui implimentation 
+
+git hub repo--> https://github.com/Sudheer023/Globetrotter-Challenge
+host website--> https://sudheer-naik-globetrotter.web.app
+
+
+--------------------------------------------------------------------------------
